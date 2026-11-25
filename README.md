@@ -1,8 +1,8 @@
-# {
+# printf 'node_modulesn.envn*.logn' > .gitignore
 
-read -p "Track del Demo Day (API de pago, Agente que paga o Verificación de pagos): " TRACK
+npm init -y > /dev/null
 
-**Track:** read -p "Nombre del proyecto: " NOMBRE · Código 402 · BAF México × Programa de Embajadores de Stellar · Stellar testnet (dinero de prueba)
+**Track:** printf 'MI_PUBLICA=nMI_SECRETA=n' > .env.example · Código 402 · BAF México × Programa de Embajadores de Stellar · Stellar testnet (dinero de prueba)
 
 ## Cómo correrlo
 
