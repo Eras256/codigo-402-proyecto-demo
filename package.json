@@ -1,0 +1,29 @@
+{
+  "name": "codigo-402-proyecto-demo",
+  "version": "1.0.0",
+  "description": "read -p \"Track del Demo Day (API de pago, Agente que paga o Verificación de pagos): \" TRACK",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --env-file-if-exists=.env --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eras256/codigo-402-proyecto-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Eras256/codigo-402-proyecto-demo/issues"
+  },
+  "homepage": "https://github.com/Eras256/codigo-402-proyecto-demo#readme",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^17.4.0",
+    "@x402/core": "^2.30.0",
+    "@x402/express": "^2.30.0",
+    "@x402/fetch": "^2.30.0",
+    "@x402/stellar": "^2.30.0",
+    "express": "^5.3.0"
+  }
+}
